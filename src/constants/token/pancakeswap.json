@@ -50,5 +50,13 @@
       "decimals": 8,
       "logoURI": "/images/coins/WBTC.png"
     }
+        {
+      "name": "Hyper Finance",
+      "symbol": "HYPER",
+      "address": "0xd19A6Fe48395a7BE37dDC16508dD180D59867012",
+      "chainId": 137,
+      "decimals": 9,
+      "logoURI": "/images/coins/WBTC.png"
+    }
   ]
 }
