@@ -15,7 +15,6 @@ export const DAI = new Token(ChainId.MAINNET, '0x8f3cf7ad23cd3cadbd9735aff958023
 export const USDC = new Token(ChainId.MAINNET, '0x2791bca1f2de4661ed88a30c99a7a9449aa84174', 6, 'USDC', 'USD Coin')
 export const USDT = new Token(ChainId.MAINNET, '0xc2132d05d31c914a87c6611c10748aeb04b58e8f', 6, 'USDT', 'Tether USD')
 export const ETH = new Token(ChainId.MAINNET, '0x7ceb23fd6bc0add59e62ac25578270cff1b9f619', 18, 'WETH', 'Wrapped Ether')
-export const HYPER = new Token(ChainId.MAINNET, '0xd19A6Fe48395a7BE37dDC16508dD180D59867012', 18, 'HYPER', 'HYPER FINANCE')
 
 const WETH_ONLY: ChainTokenList = {
   [ChainId.MAINNET]: [WETH[ChainId.MAINNET]],
